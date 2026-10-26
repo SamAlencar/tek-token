@@ -20,7 +20,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Critério de aceite: README com seções para engenheiros e incorporadores (oferta) e para investidores e auditores (demanda), aviso de que não é oferta de valores mobiliários nem aconselhamento, e mapa dos módulos com links
 - Depende de: TK-T001
 - Fase: 0
-- Status: [ ]
+- Status: [x] (26/10/2026)
 
 ### TK-T003 — Convenções do repositório
 
