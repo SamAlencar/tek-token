@@ -12,7 +12,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Critério de aceite: pastas dos módulos M1 a M4 e de docs criadas, cada arquivo planejado existe como esqueleto que aponta o item que o preenche; docs/ESTRUTURA.md mostra a árvore; links internos verdes
 - Depende de: nenhuma
 - Fase: 0
-- Status: [ ]
+- Status: [x] (26/10/2026)
 
 ### TK-T002 — Esboço do README para o lado da oferta e o lado da demanda
 
