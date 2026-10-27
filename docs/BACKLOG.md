@@ -28,7 +28,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Critério de aceite: regras de citação (código, edição e item, sem copiar texto), formato de decisão provisória, idioma pt-BR, o que é fora de escopo (software, stack, infraestrutura) e como marcar conteúdo não verificado
 - Depende de: TK-T001
 - Fase: 0
-- Status: [ ]
+- Status: [x] (27/10/2026)
 
 ### TK-T004 — Glossário inicial
 
