@@ -37,7 +37,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Depende de: TK-T003
 - Fase: 0
 - Referências: ISO 19650; ISO 16739-1
-- Status: [ ]
+- Status: [x] (28/10/2026)
 
 ### TK-T005 — Catálogo de fontes oficiais
 
