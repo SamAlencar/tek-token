@@ -46,7 +46,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Depende de: TK-T003
 - Fase: 0
 - Referências: Resolução CVM 88/2022; Lei 14.478/2022; ISO 19650
-- Status: [ ]
+- Status: [x] (29/10/2026)
 
 ### TK-T006 — Relação com os repositórios Tekto
 
