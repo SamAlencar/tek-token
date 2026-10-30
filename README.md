@@ -52,7 +52,7 @@ A árvore completa de arquivos e o item que preenche cada um estão em [docs/EST
 
 ## Relação com outros repositórios Tekto
 
-O Tek Token só descreve regras e fluxos. Cálculo e orçamento vêm do tek-calc, normas do tek-docs, materiais e preços do tek-catalog e modelos IFC do tek-studio e do tek-model. O detalhe fica em [docs/RELACAO-TEKTO.md](docs/RELACAO-TEKTO.md) (TK-T006).
+O Tek Token só descreve regras e fluxos. Cálculo vem do tek-calc, normas e especificações do tek-docs, materiais do tek-catalog e modelos IFC do tek-studio e do tek-model. Preço de referência e cronograma físico ainda não têm origem definida em nenhum repositório Tekto (D-011). O detalhe fica em [docs/RELACAO-TEKTO.md](docs/RELACAO-TEKTO.md) (TK-T006).
 
 ## Como acompanhar
 

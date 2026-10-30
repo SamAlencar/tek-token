@@ -109,7 +109,7 @@ Termo de mercado. O modelo BIM ligado ao cronograma da obra: cada elemento sabe 
 
 ### BIM 5D
 
-Termo de mercado. O modelo BIM ligado ao custo: as quantidades tiradas do modelo são multiplicadas por composições de custo e preços de referência, formando o orçamento paramétrico. É o assunto do M2 (TK-T015 a TK-T021), com cálculo no tek-calc e preços no tek-catalog ([relação com os repositórios Tekto](RELACAO-TEKTO.md)).
+Termo de mercado. O modelo BIM ligado ao custo: as quantidades tiradas do modelo são multiplicadas por composições de custo e preços de referência, formando o orçamento paramétrico. É o assunto do M2 (TK-T015 a TK-T021), com quantidades do modelo IFC e cálculo no tek-calc; a origem dos preços ainda está em aberto (D-011, [relação com os repositórios Tekto](RELACAO-TEKTO.md)).
 
 ### QTO (*Quantity Take-Off*, levantamento de quantitativos)
 
