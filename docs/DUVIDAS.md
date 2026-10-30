@@ -83,3 +83,11 @@ Perguntas que precisam de decisão do Samuel antes de virar regra deste reposit�
 - Decisão provisória (conservadora): o repositório não afirma alíquota nem regime. A TK-T037 só lista perguntas para o contador do Samuel.
 - Fonte: nenhuma lida nesta etapa; o item TK-T037 define as fontes.
 - Status: [ ] pendente
+
+### D-011 — Origem do preço e do cronograma 4D (2026-10-30)
+
+- Origem: TK-T006 ([relação com os repositórios Tekto](RELACAO-TEKTO.md)).
+- Pergunta: nenhum repositório Tekto tem hoje preço de referência, composição de custo nem cronograma físico, e o tek-catalog deixou preço de mercado fora do escopo. Esses insumos devem nascer num repositório Tekto existente (por exemplo, tek-calc ou tek-catalog), num repositório novo, ou ficar fora da Tekto, vindo de referência pública ou de terceiro contratado?
+- Decisão provisória (conservadora): nenhum repositório existente muda de escopo por causa do Tek Token. Os itens do M2 e do M3 descrevem a regra de produto e a fonte oficial de referência, sem supor um fornecedor do dado. A escolha é estratégica e fica com o Samuel.
+- Fonte: READMEs dos repositórios tek-calc, tek-docs, tek-catalog, tek-model e tek-studio (privados) — acesso em 2026-10-30
+- Status: [ ] pendente

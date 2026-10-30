@@ -54,7 +54,7 @@ Fases: 0 fundação; 1 MVP de registro de PI; 2 licenciamento e orçamento 5D au
 - Critério de aceite: tabela do que o Tek Token consome de tek-calc (orçamento e cálculo), tek-docs (normas), tek-catalog (materiais e preços), tek-studio e tek-model (IFC), sem decisão de arquitetura
 - Depende de: TK-T001
 - Fase: 0
-- Status: [ ]
+- Status: [x] (30/10/2026)
 
 ### TK-T007 — Registro de riscos inicial
 
